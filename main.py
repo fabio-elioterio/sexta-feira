@@ -27,7 +27,7 @@ stream.start_stream()
 # Criando um loop continuo para ficar ouvindo o microfone
 while True:
     # Lendo audio do microfone
-    data = stream.read(2000)
+    data = stream.read(4000)
 
     # Convertendo audio em texto
     if len(data) == 0:
