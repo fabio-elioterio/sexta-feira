@@ -10,5 +10,5 @@ Técnologias:
    * Reconhecimento de voz: (Google para reconhecimento online, Vosk para reconhecimento offline)
 
     * Síntese de voz: (pytts3)
-    
-    * Algum tipo de IA:
+
+    * Algum tipo de IA: Comands, NLU(entendimento da linguagem natural) com classificação de texto
